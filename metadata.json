@@ -1,0 +1,6 @@
+{
+  "name": "Bacha Khan Transport - Receipt Generator",
+  "description": "Professional transport receipt generator, printable thermal POS vouchers, QR verification, and consignment billing system for Bacha Khan Transport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
